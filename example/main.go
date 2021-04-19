@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/gin-middleware/xxl-job-executor"
-	"github.com/xxl-job/xxl-job-executor-go"
-	"github.com/xxl-job/xxl-job-executor-go/example/task"
+	"github.com/ainiaa/xxl-job-executor-go"
+	"github.com/ainiaa/xxl-job-executor-go/example/task"
 	"log"
 )
 
