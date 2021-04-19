@@ -1,4 +1,4 @@
-module github.com/gin-middleware/xxl-job-executor
+module github.com/ainiaa/gin-xxl-job-executor
 
 go 1.14
 
