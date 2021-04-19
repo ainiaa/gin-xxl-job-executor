@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/gin-middleware/xxl-job-executor"
+	"github.com/ainiaa/gin-xxl-job-executor"
 	"github.com/ainiaa/xxl-job-executor-go"
 	"github.com/ainiaa/xxl-job-executor-go/example/task"
 	"log"
